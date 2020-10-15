@@ -1,16 +1,29 @@
-### Hi there 👋
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=mdobydullah&show_icons=true"/>](https://obydul.me){:target="_blank"}
 
-<!--
-**mdobydullah/mdobydullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Md Obydullah
 
-Here are some ideas to get you started:
+> Senior Software Engineer at [Electronic First](https://www.electronicfirst.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Dobydulme&suffix=%20Followers)](https://twitter.com/obydulme)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mdobydullah/)
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:hi@obydul.me?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+![](https://visitor-badge.glitch.me/badge?page_id=mdobydullah.mdobydullah)
+
+Hi, I'm [Md Obydullah](https://obydul.me), a full stack developer & server administrator 🚀 from Bangladesh.
+
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 🌱 I’m currently learning Ethical Hacking & Cyber Security; 
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@obydulme](https://twitter.com/obydulme);
+
+**Languages and Tools:**  
+```json
+{
+   "languages":["C", "Java", "PHP", "JavaScript", "Python"],
+   "backend":["Laravel", "Express.js"],
+   "frontend":["Vue.js", "React.js"],
+   "mobile_app":["Android Studio", "Flutter"]
+}
+```
