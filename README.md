@@ -7,7 +7,6 @@
 [![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3Dobydulme&suffix=%20Followers)](https://twitter.com/obydulme)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mdobydullah/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:hi@obydul.me?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-![](https://visitor-badge.glitch.me/badge?page_id=mdobydullah.mdobydullah)
 
 Hi, I'm [Md Obydullah](https://obydul.me), a full stack developer & server administrator 🚀 from Bangladesh.
 
@@ -20,10 +19,18 @@ Hi, I'm [Md Obydullah](https://obydul.me), a full stack developer & server admin
 
 **Languages and Tools:**  
 ```json
+
 {
-   "languages":["C", "Java", "PHP", "JavaScript", "Python"],
-   "backend":["Laravel", "Express.js"],
-   "frontend":["Vue.js", "React.js"],
-   "mobile_app":["Android Studio", "Flutter"]
+   "languages" : ["C", "Java", "PHP", "JavaScript", "Python"],
+   "web_backend" : ["Laravel", "Express.js"],
+   "web_frontend" : ["Vue.js", "React.js"],
+   "mobile_app" : {
+     "os" : ["Android", "iOS"],
+     "tools" : ["Android Studio", "Flutter"]
+   },
+   "server" : {
+     "os" : ["CentOS", "Ubunut", "RedHat", "More..."],
+     "providers" : ["Amazon AWS", "Linode", "DigitalOcean", "More..."]
+   }
 }
 ```
