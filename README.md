@@ -10,12 +10,13 @@
 
 Hi, I'm [Md Obydullah](https://obydul.me), a full stack developer & server administrator 🚀 from Bangladesh.
 
-**Talking about Personal Stuffs:**
+**Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Ethical Hacking & Cyber Security; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@obydulme](https://twitter.com/obydulme);
+- 🌐 My portfolio: [obydul.me](https://obydul.me);
 
 **Languages and Tools:**  
 ```json
