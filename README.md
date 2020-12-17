@@ -16,7 +16,7 @@ Hi, I'm [Md Obydullah](https://obydul.me), a full stack developer & server admin
 - 🌱 I’m currently learning Ethical Hacking & Cyber Security; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@obydulme](https://twitter.com/obydulme);
-- 🌐 My blog: [mynotepaper.com](https://www.mynotepaper.com);
+- 🌐 My blog: [shouts.dev](https://shouts.dev);
 
 **Languages and Tools:**  
 ```json
