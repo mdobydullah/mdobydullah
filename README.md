@@ -30,7 +30,7 @@ Hi, I'm [Md Obydullah](https://obydul.me), a software engineer, server administr
      "tools" : ["Android Studio", "Flutter"]
    },
    "server" : {
-     "os" : ["CentOS", "Ubunut", "RedHat", "More..."],
+     "os" : ["CentOS", "Ubuntu", "RedHat", "More..."],
      "providers" : ["Amazon AWS", "Linode", "DigitalOcean", "More..."]
    }
 }
