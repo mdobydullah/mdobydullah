@@ -22,7 +22,7 @@ Hi, I'm [Md Obydullah](https://obydul.me), a software engineer, server administr
 ```json
 
 {
-   "languages" : ["C", "Java", "PHP", "JavaScript", "Python"],
+   "languages" : ["C", "Java", "Python", "PHP", "JavaScript"],
    "web_backend" : ["Laravel", "Express.js"],
    "web_frontend" : ["Vue.js", "React.js"],
    "mobile_app" : {
