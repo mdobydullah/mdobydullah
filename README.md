@@ -1,4 +1,4 @@
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=mdobydullah&show_icons=true&theme=onedark"/>](https://obydul.me)
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=mdobydullah&show_icons=true&theme=tokyonight"/>](https://obydul.me)
 
 ## Md Obydullah
 
