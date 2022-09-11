@@ -18,11 +18,11 @@ Hi, I'm [Md Obydullah](https://obydul.me), a software engineer, server administr
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Remove First or Nth Element from List in Django](https://shouts.dev/articles/remove-first-or-nth-element-from-list-in-django)
 - [Vue.js 3 Routing From Scratch Using CDN Without CLI](https://shouts.dev/articles/vuejs-3-routing-from-scratch-using-cdn-without-cli)
 - [HTTP Request Smuggling Vulnerability Scanner with Request Smuggler](https://shouts.dev/articles/http-request-smuggling-vulnerability-scanner-with-request-smuggler)
 - [Python Check if a Number is Odd or Even](https://shouts.dev/snippets/python-check-if-a-number-is-odd-or-even)
 - [Restrict Block Allow IP Addresses in Nginx with Examples](https://shouts.dev/articles/restrict-block-allow-ip-addresses-in-nginx-with-examples)
-- [Python Check if a Number is Positive, Negative or Zero](https://shouts.dev/snippets/python-check-if-a-number-is-positive-negative-or-zero)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Languages and Tools:**
