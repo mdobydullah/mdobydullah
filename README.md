@@ -18,11 +18,11 @@ Hi, I'm [Md Obydullah](https://obydul.me), a software engineer, server administr
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
-- [Python Find the Largest Among 3 Numbers](https://shouts.dev/snippets/python-find-the-largest-among-3-numbers)
+- [Laravel Change / Override Timestamp Column Names](https://shouts.dev/snippets/laravel-change-override-timestamp-column-names)
 - [Laravel Disable Timestamps](https://shouts.dev/snippets/laravel-disable-timestamps)
+- [Python Find the Largest Among 3 Numbers](https://shouts.dev/snippets/python-find-the-largest-among-3-numbers)
 - [Laravel Clone or Reuse Query](https://shouts.dev/snippets/laravel-clone-or-reuse-query)
 - [Python Program to Check Leap Year or Not](https://shouts.dev/snippets/python-program-to-check-leap-year-or-not)
-- [Remove First or Nth Element from List in Django](https://shouts.dev/articles/remove-first-or-nth-element-from-list-in-django)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Languages and Tools:**
