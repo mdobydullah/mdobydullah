@@ -18,11 +18,11 @@ Hi, I'm [Md Obydullah](https://obydul.me), a software engineer, server administr
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [How to Install PHP GD in Docker](https://shouts.dev/snippets/how-to-install-php-gd-in-docker)
+- [Jinja2 Flask If Else Statement](https://shouts.dev/snippets/jinja2-flask-if-else-statement)
 - [Laravel Change / Override Timestamp Column Names](https://shouts.dev/snippets/laravel-change-override-timestamp-column-names)
 - [Laravel Disable Timestamps](https://shouts.dev/snippets/laravel-disable-timestamps)
 - [Python Find the Largest Among 3 Numbers](https://shouts.dev/snippets/python-find-the-largest-among-3-numbers)
-- [Laravel Clone or Reuse Query](https://shouts.dev/snippets/laravel-clone-or-reuse-query)
-- [Python Program to Check Leap Year or Not](https://shouts.dev/snippets/python-program-to-check-leap-year-or-not)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Languages and Tools:**
