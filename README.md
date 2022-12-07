@@ -18,11 +18,11 @@ Hi, I'm [Md Obydullah](https://obydul.me), a software engineer, server administr
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Laravel Use Multiple Email SMTP Mailers](https://shouts.dev/articles/laravel-use-multiple-email-smtp-mailers)
 - [Python Print Even Numbers in a List](https://shouts.dev/snippets/python-print-even-numbers-in-a-list)
 - [Python Swap Two Variables with and without Temporary Variable](https://shouts.dev/snippets/python-swap-two-variables-with-and-without-temporary-variable)
 - [How to Install PHP GD in Docker](https://shouts.dev/snippets/how-to-install-php-gd-in-docker)
 - [Jinja2 Flask If Else Statement](https://shouts.dev/snippets/jinja2-flask-if-else-statement)
-- [Laravel Change / Override Timestamp Column Names](https://shouts.dev/snippets/laravel-change-override-timestamp-column-names)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Languages and Tools:**
