@@ -18,11 +18,11 @@ Hi, I'm [Md Obydullah](https://obydul.me), a software engineer, server administr
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Laravel Search in JSON Array Object using WhereJsonContains](https://shouts.dev/articles/laravel-search-in-json-array-object-with-wherejsoncontains)
 - [Caddy Redirect all HTTP Requests to HTTPS](https://shouts.dev/articles/caddy-redirect-all-http-requests-to-https)
 - [Auto Close all Details Tags after Opening a Specific One](https://shouts.dev/articles/auto-close-all-details-tags-after-opening-a-specific-one)
 - [Laravel Redis Caching Performance is Very Slow in Laragon](https://shouts.dev/snippets/laravel-redis-caching-performance-is-very-slow-in-laragon)
 - [JavaScript Capitalize First Letter of a String](https://shouts.dev/snippets/javascript-capitalize-first-letter-of-a-string)
-- [Laravel HTTP x-www-form-urlencoded Request Body](https://shouts.dev/snippets/laravel-http-x-www-form-urlencoded-request-body)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Languages and Tools:**
