@@ -18,11 +18,11 @@ Hi, I'm [Md Obydullah](https://obydul.me), a software engineer, server administr
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Javascript Make an HTTP Request](https://shouts.dev/snippets/javascript-make-an-http-request)
 - [Laravel Carbon Compare Two Dates without Times](https://shouts.dev/snippets/laravel-carbon-compare-two-dates-without-times)
 - [Laravel Search in JSON Array Object using WhereJsonContains](https://shouts.dev/articles/laravel-search-in-json-array-object-with-wherejsoncontains)
 - [Caddy Redirect all HTTP Requests to HTTPS](https://shouts.dev/articles/caddy-redirect-all-http-requests-to-https)
 - [Auto Close all Details Tags after Opening a Specific One](https://shouts.dev/articles/auto-close-all-details-tags-after-opening-a-specific-one)
-- [Laravel Redis Caching Performance is Very Slow in Laragon](https://shouts.dev/snippets/laravel-redis-caching-performance-is-very-slow-in-laragon)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Languages and Tools:**
