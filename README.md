@@ -2,8 +2,8 @@
 
 > Senior Software Engineer at [Electronic First](https://www.electronicfirst.com)
 
-[![Twitter](https://img.shields.io/badge/%20-Twitter-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=fffff)](https://twitter.com/obyydul)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mdobydullah/)
+[![Twitter](https://img.shields.io/badge/%20-Twitter-black?color=14171A&labelColor=4fc3f7&logo=twitter&logoColor=ffffff)](https://twitter.com/obyydul)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=0A66C2&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mdobydullah/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:hi@obydul.me?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
 Hi, I'm [Md Obydullah](https://obydul.me), a software engineer, server administrator, ethical hacker and enthusiastic problem solver 🚀 from Bangladesh <img src="https://github.com/google/region-flags/raw/gh-pages/png/BD.png" width="17">.
