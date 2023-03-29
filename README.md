@@ -18,11 +18,11 @@ Hi, I'm [Md Obydullah](https://obydul.me), a software engineer, server administr
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [How to Create and Use Custom Laravel Macro](https://shouts.dev/articles/how-to-create-and-use-custom-laravel-macro)
+- [The List of Macroable Laravel Classes](https://shouts.dev/snippets/the-list-of-macroable-laravel-classes)
 - [JavaScript Convert a Value to Safe Integer](https://shouts.dev/snippets/javascript-convert-a-value-to-safe-integer)
 - [Laravel How to Use $loop Variable in Foreach](https://shouts.dev/snippets/laravel-how-to-use-loop-variable-in-foreach)
 - [Javascript Check a Number is Even or Odd](https://shouts.dev/snippets/javascript-check-a-number-is-even-or-odd)
-- [Javascript Check a Number is Even](https://shouts.dev/snippets/javascript-check-a-number-is-even)
-- [Javascript Check a Number is Odd](https://shouts.dev/snippets/javascript-check-a-number-is-odd)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Languages and Tools:**
