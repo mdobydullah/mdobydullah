@@ -18,11 +18,11 @@ Hi, I'm [Md Obydullah](https://obydul.me), a software engineer, server administr
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Laravel 10 Dropzone Multiple Image Upload](https://shouts.dev/articles/laravel-10-dropzone-multiple-image-upload)
 - [Migrate Laravel Webpack/Mix to Vite Step by Step Guideline](https://shouts.dev/articles/migrate-laravel-webpack-mix-to-vite-step-by-step-guideline)
 - [Laravel Custom mapToRedirect Route Macro](https://shouts.dev/snippets/laravel-custom-maptoredirect-route-macro)
 - [How to Create and Use Custom Laravel Macro](https://shouts.dev/articles/how-to-create-and-use-custom-laravel-macro)
 - [The List of Macroable Laravel Classes](https://shouts.dev/snippets/the-list-of-macroable-laravel-classes)
-- [JavaScript Convert a Value to Safe Integer](https://shouts.dev/snippets/javascript-convert-a-value-to-safe-integer)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Languages and Tools:**
