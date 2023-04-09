@@ -18,11 +18,11 @@ Hi, I'm [Md Obydullah](https://obydul.me), a software engineer, server administr
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Laravel Upload Large File &lpar;10 GB+&rpar; with Resumablejs and Laravel Chunk Upload](https://shouts.dev/articles/laravel-upload-large-file-with-resumablejs-and-laravel-chunk-upload)
 - [Laravel 10 Dropzone Multiple Image Upload](https://shouts.dev/articles/laravel-10-dropzone-multiple-image-upload)
 - [Migrate Laravel Webpack/Mix to Vite Step by Step Guideline](https://shouts.dev/articles/migrate-laravel-webpack-mix-to-vite-step-by-step-guideline)
 - [Laravel Custom mapToRedirect Route Macro](https://shouts.dev/snippets/laravel-custom-maptoredirect-route-macro)
 - [How to Create and Use Custom Laravel Macro](https://shouts.dev/articles/how-to-create-and-use-custom-laravel-macro)
-- [The List of Macroable Laravel Classes](https://shouts.dev/snippets/the-list-of-macroable-laravel-classes)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Languages and Tools:**
