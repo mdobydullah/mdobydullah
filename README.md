@@ -2,7 +2,7 @@
 
 > Senior Software Engineer at [Electronic First](https://www.electronicfirst.com)
 
-[![Twitter](https://img.shields.io/badge/%20-Twitter-black?color=14171A&labelColor=4fc3f7&logo=twitter&logoColor=ffffff)](https://twitter.com/obyydul)
+[![Twitter](https://img.shields.io/badge/%20-Twitter-black?color=14171A&labelColor=4fc3f7&logo=twitter&logoColor=ffffff)](https://twitter.com/anyxellir)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=0A66C2&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mdobydullah/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:hi@obydul.me?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
@@ -13,7 +13,7 @@ Hi, I'm [Md Obydullah](https://obydul.me), a software engineer, server administr
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Ethical Hacking, Cyber Security, Web3; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@obyydul](https://twitter.com/obyydul);
+- 📫 How to reach me: [@anyxellir](https://twitter.com/anyxellir);
 - 🌐 My blog: [shouts.dev](https://shouts.dev);
 
 :page_with_curl: **Latest Articles & Snippets**
