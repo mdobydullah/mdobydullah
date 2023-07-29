@@ -18,11 +18,11 @@ Hi, I'm [Md Obydullah](https://twitter.com/obydul1h), a software engineer, serve
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Prevent Cross-Site Scripting &lpar;XSS&rpar; in PHP Applications](https://shouts.dev/articles/prevent-cross-site-scripting-in-php-applications)
 - [Laravel Queue with Parameters Step by Step Example](https://shouts.dev/snippets/laravel-queue-with-parameters-step-by-step-example)
 - [Laravel Calculate Estimated Reading Time](https://shouts.dev/snippets/laravel-calculate-estimated-reading-time)
 - [Laravel Upload Large File &lpar;10 GB+&rpar; with Resumablejs and Laravel Chunk Upload](https://shouts.dev/articles/laravel-upload-large-file-with-resumablejs-and-laravel-chunk-upload)
 - [Laravel 10 Dropzone Multiple Image Upload](https://shouts.dev/articles/laravel-10-dropzone-multiple-image-upload)
-- [Migrate Laravel Webpack/Mix to Vite Step by Step Guideline](https://shouts.dev/articles/migrate-laravel-webpack-mix-to-vite-step-by-step-guideline)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Languages and Tools:**
