@@ -13,7 +13,7 @@ Hi, I'm [Md Obydullah](https://twitter.com/obydul1h), a software engineer, serve
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Ethical Hacking, Cyber Security, Web3; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@anyxellir](https://twitter.com/obydul1h);
+- 📫 How to reach me: [@obydul1h](https://twitter.com/obydul1h);
 - 🌐 My blog: [shouts.dev](https://shouts.dev);
 
 :page_with_curl: **Latest Articles & Snippets**
