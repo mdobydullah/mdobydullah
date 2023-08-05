@@ -93,5 +93,3 @@ Current active stacks: Laravel, AWS, Docker, Python, Hacking & Security, Web3.
 <img src="https://github-readme-stats.vercel.app/api?username=mdobydullah&show_icons=true&count_private=true" alt="mdobydullah" width="45%" align="right"/>
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mdobydullah&locale=en" width="48%" style="max-height: 100px">
  </div>
-
-![Achievements](https://github.com/mdobydullah/mdobydullah/blob/data/achievements.svg)
