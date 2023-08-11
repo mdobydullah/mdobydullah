@@ -18,11 +18,11 @@ Hi, I'm [Md Obydullah](https://bio.link/obydul), a software engineer, server adm
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Add Git Bash Alias on Windows](https://shouts.dev/snippets/add-git-bash-alias-on-windows)
 - [Laravel Pruning Failed Jobs](https://shouts.dev/snippets/laravel-pruning-failed-jobs)
 - [Prevent Cross-Site Scripting &lpar;XSS&rpar; in PHP Applications](https://shouts.dev/articles/prevent-cross-site-scripting-in-php-applications)
 - [Laravel Queue with Parameters Step by Step Example](https://shouts.dev/snippets/laravel-queue-with-parameters-step-by-step-example)
 - [Laravel Calculate Estimated Reading Time](https://shouts.dev/snippets/laravel-calculate-estimated-reading-time)
-- [Laravel Upload Large File &lpar;10 GB+&rpar; with Resumablejs and Laravel Chunk Upload](https://shouts.dev/articles/laravel-upload-large-file-with-resumablejs-and-laravel-chunk-upload)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Languages and Tools:**
