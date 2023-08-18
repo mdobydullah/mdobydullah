@@ -18,11 +18,11 @@ Hi, I'm [Md Obydullah](https://bio.link/obydul), a software engineer, server adm
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [How to Clone a Specific Branch From a Git Repository](https://shouts.dev/snippets/how-to-clone-a-specific-branch-from-a-git-repository)
 - [Understanding Dependency Injection with Examples in PHP](https://shouts.dev/articles/understanding-dependency-injection-with-examples-in-php)
 - [Add Git Bash Alias on Windows](https://shouts.dev/snippets/add-git-bash-alias-on-windows)
 - [Laravel Pruning Failed Jobs](https://shouts.dev/snippets/laravel-pruning-failed-jobs)
 - [Prevent Cross-Site Scripting &lpar;XSS&rpar; in PHP Applications](https://shouts.dev/articles/prevent-cross-site-scripting-in-php-applications)
-- [Laravel Queue with Parameters Step by Step Example](https://shouts.dev/snippets/laravel-queue-with-parameters-step-by-step-example)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Languages and Tools:**
