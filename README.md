@@ -18,11 +18,11 @@ Hi, I'm [Md Obydullah](https://bio.link/obydul), a software engineer, server adm
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Export Multiple Excel Sheets To CSV using VBA](https://shouts.dev/snippets/export-multiple-excel-sheets-to-csv)
+- [Excel VBA Split Excel Sheet into Multiple Sheets](https://shouts.dev/snippets/excel-vba-split-excel-sheet-into-multiple-sheets)
 - [PHP Closure vs Anonymous Function with Example](https://shouts.dev/articles/php-closure-vs-anonymous-function-with-example)
 - [Concurrency in Computer Science with Example](https://shouts.dev/articles/concurrency-in-computer-science-with-example)
 - [How to Clone a Specific Branch From a Git Repository](https://shouts.dev/snippets/how-to-clone-a-specific-branch-from-a-git-repository)
-- [Understanding Dependency Injection with Examples in PHP](https://shouts.dev/articles/understanding-dependency-injection-with-examples-in-php)
-- [Add Git Bash Alias on Windows](https://shouts.dev/snippets/add-git-bash-alias-on-windows)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Languages and Tools:**
