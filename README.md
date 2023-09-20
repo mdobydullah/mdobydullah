@@ -18,11 +18,11 @@ Hi, I'm [Md Obydullah](https://bio.link/obydul), a software engineer, server adm
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Rename / Change a Git Commit Message](https://shouts.dev/snippets/rename-a-git-commit-message)
 - [Lambda vs Anonymous Function in PHP](https://shouts.dev/articles/lambda-vs-anonymous-function-in-php)
 - [Export Multiple Excel Sheets To CSV using VBA](https://shouts.dev/snippets/export-multiple-excel-sheets-to-csv)
 - [Excel VBA Split Excel Sheet into Multiple Sheets](https://shouts.dev/snippets/excel-vba-split-excel-sheet-into-multiple-sheets)
 - [PHP Closure vs Anonymous Function with Example](https://shouts.dev/articles/php-closure-vs-anonymous-function-with-example)
-- [Concurrency in Computer Science with Example](https://shouts.dev/articles/concurrency-in-computer-science-with-example)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Languages and Tools:**
