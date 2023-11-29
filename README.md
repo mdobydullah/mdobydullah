@@ -18,11 +18,11 @@ Hi, I'm [Md Obydullah](https://bio.link/obydul), a software engineer, server adm
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Install Java on Kali Linux](https://shouts.dev/articles/install-java-on-kali-linux)
 - [Laravel Blade Remove the Last Comma from Foreach Loop](https://shouts.dev/snippets/laravel-blade-remove-the-last-comma-from-foreach-loop)
 - [Check Current Laravel Version of Your Project](https://shouts.dev/articles/check-current-laravel-version-of-your-project)
 - [Rename / Change a Git Commit Message](https://shouts.dev/snippets/rename-a-git-commit-message)
 - [Lambda vs Anonymous Function in PHP](https://shouts.dev/articles/lambda-vs-anonymous-function-in-php)
-- [Export Multiple Excel Sheets To CSV using VBA](https://shouts.dev/snippets/export-multiple-excel-sheets-to-csv)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Languages and Tools:**
