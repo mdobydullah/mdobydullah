@@ -3,7 +3,8 @@
 > Senior Software Engineer at [Electronic First](https://www.electronicfirst.com)
 
 [![Twitter](https://img.shields.io/badge/%20-Twitter-black?color=14171A&labelColor=4fc3f7&logo=twitter&logoColor=ffffff)](https://twitter.com/0x0bydul)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=0A66C2&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mdobydullah/)
+[![YouTube](https://img.shields.io/badge/%20-YouTube-black?color=14171A&labelColor=CD201F&logo=youtube&logoColor=ffffff)](https://www.youtube.com/@anyxel)
+[![Bio Link](https://img.shields.io/badge/%20-Bio%20Link-black?color=14171A&labelColor=E158A6&logo=biolink&logoColor=ffffff)](https://bio.link/obydul)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:hi@obydul.me?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
 Hi, I'm [Md Obydullah](https://bio.link/obydul), a software engineer, server administrator, ethical hacker and enthusiastic problem solver 🚀 from Bangladesh <img src="https://github.com/google/region-flags/raw/gh-pages/png/BD.png" width="17">.
@@ -15,6 +16,7 @@ Hi, I'm [Md Obydullah](https://bio.link/obydul), a software engineer, server adm
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [bio.link/obydul](https://bio.link/obydul);
 - 🌐 My blog: [shouts.dev](https://shouts.dev);
+- 📺 YouTube channel: [yt.com/@anyxel](https://www.youtube.com/@anyxel);
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
