@@ -12,7 +12,7 @@ Hi, I'm [Md Obydullah](https://bio.link/obydul), a software engineer, server adm
 :clipboard: **Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Ethical Hacking, Cyber Security, Web3; 
+- 🌱 I’m currently learning Ethical Hacking, Cyber Security, Go; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [bio.link/obydul](https://bio.link/obydul);
 - 🌐 My blog: [shouts.dev](https://shouts.dev);
@@ -29,7 +29,7 @@ Hi, I'm [Md Obydullah](https://bio.link/obydul), a software engineer, server adm
 
 🛠️ **Languages and Tools:**
 
-Current active stacks: Laravel, AWS, Docker, Python, Hacking & Security, Web3.
+Current active stacks: Go, Hacking & Security, Laravel, AWS, Python.
 
 ```json
 {
