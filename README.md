@@ -2,7 +2,7 @@
 
 > Senior Software Engineer at [Electronic First](https://www.electronicfirst.com)
 
-[![Twitter](https://img.shields.io/badge/%20-Twitter-black?color=14171A&labelColor=4fc3f7&logo=twitter&logoColor=ffffff)](https://twitter.com/0x0bydul)
+[![Twitter](https://img.shields.io/badge/%20-Twitter-black?color=14171A&labelColor=4fc3f7&logo=twitter&logoColor=ffffff)](https://twitter.com/0xObydul)
 [![YouTube](https://img.shields.io/badge/%20-YouTube-black?color=14171A&labelColor=CD201F&logo=youtube&logoColor=ffffff)](https://www.youtube.com/@anyxel)
 [![Bio Link](https://img.shields.io/badge/%20-Bio%20Link-black?color=14171A&labelColor=E158A6&logo=biolink&logoColor=ffffff)](https://bio.link/obydul)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:hi@obydul.me?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
