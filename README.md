@@ -20,11 +20,11 @@ Hi, I'm [Md Obydullah](https://bio.link/obydul), a software engineer, server adm
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
+- [Benchmark the Performance of a Redis Server](https://shouts.dev/articles/benchmark-the-performance-of-a-redis-server)
 - [PHP Standards and Coding Styles Followed by EF Laravel Developers](https://shouts.dev/articles/php-standards-and-coding-styles-followed-by-ef-laravel-developers)
 - [Install Java on Kali Linux](https://shouts.dev/articles/install-java-on-kali-linux)
 - [Laravel Blade Remove the Last Comma from Foreach Loop](https://shouts.dev/snippets/laravel-blade-remove-the-last-comma-from-foreach-loop)
 - [Check Current Laravel Version of Your Project](https://shouts.dev/articles/check-current-laravel-version-of-your-project)
-- [Rename / Change a Git Commit Message](https://shouts.dev/snippets/rename-a-git-commit-message)
 <!-- BLOG-POST-LIST:END -->
 
 🛠️ **Languages and Tools:**
