@@ -16,7 +16,7 @@ Hi, I'm [Md Obydullah](https://bio.link/obydul), a software engineer, server adm
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [bio.link/obydul](https://bio.link/obydul);
 - 🌐 My blog: [shouts.dev](https://shouts.dev);
-- 📺 YouTube channel: [yt.com/@anyxel](https://www.youtube.com/@anyxel);
+- 📺 YouTube channel: [yt.com/@AnyxelBN](https://www.youtube.com/@AnyxelBN);
 
 :page_with_curl: **Latest Articles & Snippets**
 <!-- BLOG-POST-LIST:START -->
