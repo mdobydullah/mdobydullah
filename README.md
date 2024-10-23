@@ -29,7 +29,7 @@ Hi, I'm [Md Obydullah](https://bio.link/obydul), a software engineer, server adm
 
 🛠️ **Languages and Tools:**
 
-Current active stacks: Go, Hacking & Security, Laravel, AWS, Python.
+Current active stacks: Python, Go, Hacking & Security, Laravel, AWS.
 
 ```json
 {
