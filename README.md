@@ -91,5 +91,5 @@ Current active stacks: Python, Go, Hacking & Security, Laravel, AWS.
 :fire: **GitHub Stats**
 <div>
 <img src="https://github-readme-stats-obydul.vercel.app/api?username=mdobydullah&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github" alt="mdobydullah" width="45%" align="right"/>
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=mdobydullah&locale=en" width="48%" style="max-height: 100px">
+<img  src="https://github-readme-streak-stats-obydul.vercel.app?user=mdobydullah&locale=en" width="48%" style="max-height: 100px">
  </div>
