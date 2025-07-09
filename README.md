@@ -23,15 +23,30 @@ Current active stacks: Python, Go, Hacking & Security, Laravel, AWS.
 
 ```json
 {
-   "languages" : ["C", "Java", "Python", "PHP", "JavaScript", "Go"],
-   "backend_dev" : ["Laravel", "Django", "Flask", "FastAPI"],
-   "frontend_basic" : ["Next.js", "Vue.js"],
-   "cloud" : ["Amazon AWS", "DigitalOcean", "Akamai"],
-   "devops" : ["Docker", "Kubernetes", "Terraform", "Ansible", "Jenkins", "GitHub Actions", "AWS CodeDeploy"],
-   "databases" : ["MySQL", "PostgreSQL", "ClickHouse", "Redis", "DynamoDB", "MongoDB", "Redshift"],
-   "data_engineering" : ["JetShift (owner)", "SQLAlchemy", "Prefect", "Airflow", "Airbyte", "Kafka", "RabbitMQ", "Debezium"],
-   "monitoring" : ["Datadog", "Prometheus", "Grafana", "Sentry", "PostHog", "Discord alerting"],
-   "ethical_hacking" : ["CEH v12", "Kali Linux", "Parrot OS", "Burp Suite", "Web Application Security"]
+  "languages": ["C", "Java", "Python", "PHP", "JavaScript", "Go"],
+  "backend_development": ["Laravel", "Django", "Flask", "FastAPI"],
+  "frontend_basics": ["Next.js", "Vue.js"],
+  "cloud_platforms": ["Amazon AWS", "DigitalOcean", "Akamai"],
+  "devops_tools": [
+    "Docker", "Kubernetes", "Terraform", "Ansible", 
+    "Jenkins", "GitHub Actions", "AWS CodeDeploy"
+  ],
+  "databases": [
+    "MySQL", "PostgreSQL", "ClickHouse", 
+    "Redis", "DynamoDB", "MongoDB", "Redshift"
+  ],
+  "data_engineering": [
+    "JetShift (owner)", "SQLAlchemy", "Prefect", 
+    "Airflow", "Airbyte", "Kafka", "RabbitMQ", "Debezium"
+  ],
+  "monitoring_alerting": [
+    "Datadog", "Prometheus", "Grafana", 
+    "Sentry", "PostHog", "Discord alerting"
+  ],
+  "ethical_hacking": [
+    "CEH v12", "Kali Linux", "Parrot OS", 
+    "Burp Suite", "Web Application Security"
+  ]
 }
 ```
 
