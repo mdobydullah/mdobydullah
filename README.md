@@ -2,12 +2,12 @@
 
 > Senior Software Engineer at [Electronic First](https://www.electronicfirst.com)
 
-[![Twitter](https://img.shields.io/badge/%20-Twitter-black?color=14171A&labelColor=4fc3f7&logo=twitter&logoColor=ffffff)](https://twitter.com/0xObydul)
-[![YouTube](https://img.shields.io/badge/%20-YouTube-black?color=14171A&labelColor=CD201F&logo=youtube&logoColor=ffffff)](https://www.youtube.com/@anyxel)
+[![LinkedIn](https://img.shields.io/badge/%20-LinkedIn-black?color=14171A&labelColor=4fc3f7&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/obydul/)
+[![Twitter](https://img.shields.io/badge/%20-Twitter-black?color=14171A&labelColor=4fc3f7&logo=x&logoColor=ffffff)](https://x.com/0xObydul)
 [![Bio Link](https://img.shields.io/badge/%20-Bio%20Link-black?color=14171A&labelColor=E158A6&logo=biolink&logoColor=ffffff)](https://bio.link/obydul)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:hi@obydul.me?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
-Hi, I'm [Md Obydullah](https://bio.link/obydul), a software engineer, server administrator, ethical hacker and enthusiastic problem solver 🚀 from Bangladesh <img src="https://github.com/google/region-flags/raw/gh-pages/png/BD.png" width="17">.
+Hi, I'm [Md Obydullah](https://bio.link/obydul), a software engineer, cloud enthusiast, ethical hacker and passionate problem solver from Bangladesh.
 
 :clipboard: **Personal Stuffs:**
 
@@ -15,17 +15,7 @@ Hi, I'm [Md Obydullah](https://bio.link/obydul), a software engineer, server adm
 - 🌱 I’m currently learning Ethical Hacking, Cyber Security, Go; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [bio.link/obydul](https://bio.link/obydul);
-- 🌐 My blog: [shouts.dev](https://shouts.dev);
 - 📺 YouTube channel: [yt.com/@AnyxelBN](https://www.youtube.com/@AnyxelBN);
-
-:page_with_curl: **Latest Articles & Snippets**
-<!-- BLOG-POST-LIST:START -->
-- [Benchmark the Performance of a Redis Server](https://shouts.dev/snippets/benchmark-the-performance-of-a-redis-server)
-- [PHP Standards and Coding Styles Followed by EF Laravel Developers](https://shouts.dev/articles/php-standards-and-coding-styles-followed-by-ef-laravel-developers)
-- [Install Java on Kali Linux](https://shouts.dev/articles/install-java-on-kali-linux)
-- [Laravel Blade Remove the Last Comma from Foreach Loop](https://shouts.dev/snippets/laravel-blade-remove-the-last-comma-from-foreach-loop)
-- [Check Current Laravel Version of Your Project](https://shouts.dev/articles/check-current-laravel-version-of-your-project)
-<!-- BLOG-POST-LIST:END -->
 
 🛠️ **Languages and Tools:**
 
@@ -34,24 +24,20 @@ Current active stacks: Python, Go, Hacking & Security, Laravel, AWS.
 ```json
 {
    "languages" : ["C", "Java", "Python", "PHP", "JavaScript", "Go"],
-   "web_backend" : ["Laravel", "Django"],
-   "web_frontend" : ["Vue.js", "React.js"],
-   "mobile_app" : {
-     "os" : ["Android", "iOS"],
-     "tools" : ["Android Studio", "Flutter"]
-   },
-   "hacking_security" : {
-     "os" : ["Kali Linux", "Parrot OS"],
-   },
-   "server" : {
-     "os" : ["CentOS", "Ubuntu", "RedHat", "More..."],
-     "providers" : ["Amazon AWS", "Linode", "DigitalOcean", "More..."]
-   }
+   "backend_dev" : ["Laravel", "Django", "Flask", "FastAPI"],
+   "frontend_basic" : ["Next.js", "Vue.js"],
+   "cloud" : ["Amazon AWS", "DigitalOcean", "Akamai"],
+   "devops" : ["Docker", "Kubernetes", "Terraform", "Ansible", "Jenkins", "GitHub Actions", "AWS CodeDeploy"],
+   "databases" : ["MySQL", "PostgreSQL", "ClickHouse", "Redis", "DynamoDB", "MongoDB", "Redshift"],
+   "data_engineering" : ["JetShift (owner)", "SQLAlchemy", "Prefect", "Airflow", "Airbyte", "Kafka", "RabbitMQ", "Debezium"],
+   "monitoring" : ["Datadog", "Prometheus", "Grafana", "Sentry", "PostHog", "Discord alerting"],
+   "ethical_hacking" : ["CEH v12", "Kali Linux", "Parrot OS", "Burp Suite", "Web Application Security"]
 }
 ```
 
 <p align="left">
- <a href="https://go.dev" target="_blank"> <img src="https://cdn.shouts.dev/media/418/golang.png" alt="golang" width="40" height="35"/> </a>
+ <a href="https://portswigger.net/burp" target="_blank"> <img src="https://cdn.shouts.dev/media/440/burp-suite-icon.png" alt="burp suite" title="Burp Suite" height="35"/> </a>
+ <a href="https://go.dev" target="_blank"> <img src="https://cdn.shouts.dev/media/418/golang.png" alt="golang" title="Go" width="40" height="35"/> </a>
  <a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="35" height="35"/> </a>
  <a href="https://www.docker.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
  <a href="https://web3.foundation" target="_blank"> <img src="https://img.icons8.com/dusk/344/blockchain-new-logo.png" alt="web3, blockchain" width="40" height="40"/></a>
@@ -67,11 +53,9 @@ Current active stacks: Python, Go, Hacking & Security, Laravel, AWS.
  <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
  <a href="https://reactjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
  <a href="https://vuejs.org" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo.png" alt="sqlite" width="35" height="35"/> </a>
- <a href="https://flutter.dev" target="_blank"> <img src="https://img.icons8.com/color/344/flutter.png" alt="flutter" width="40" height="40"/> </a>
  <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
  <a href="https://laravel.com" target="_blank"> <img src="https://img.icons8.com/fluency/344/laravel.png" alt="laravel" width="40" height="40"/> </a>
  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
- <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
  <a href="https://www.sqlite.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="35"/> </a>
  <a href="https://www.mysql.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
