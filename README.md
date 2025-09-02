@@ -15,7 +15,6 @@ Hi, I'm [Md Obydullah](https://bio.link/obydul), a software engineer, cloud enth
 - 🌱 I’m currently learning Ethical Hacking, Cyber Security, Go; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [bio.link/obydul](https://bio.link/obydul);
-- 📺 YouTube channel: [yt.com/@AnyxelBN](https://www.youtube.com/@AnyxelBN);
 
 🛠️ **Languages and Tools:**
 
